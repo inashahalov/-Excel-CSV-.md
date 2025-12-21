@@ -28,7 +28,8 @@
 ## Предложенный подход архитектурной схемы миграции данных с использованием российской RPA-платформы
 
 ```mermaid
-<img width="1140" height="715" alt="image" src="https://github.com/user-attachments/assets/f9514c22-dfac-4587-ae3a-aae3816cccf3" />
+
+<img width="1134" height="719" alt="rpa" src="https://github.com/user-attachments/assets/6af0832b-dfcf-4c30-b7b2-bbcb4f91b944" />
 
 ```
 ## 
