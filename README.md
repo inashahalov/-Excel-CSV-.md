@@ -24,8 +24,7 @@
 
 
 ## Предложенный подход архитектурной схемы миграции данных с использованием российской RPA-платформы
-[
-rpa.png](https://github.com/nsilya/-Excel-CSV-.md/blob/7b46b112274fc142e91c550a8806ca127bbd14f0/rpa.png)
+https://github.com/nsilya/-Excel-CSV-.md/blob/7b46b112274fc142e91c550a8806ca127bbd14f0/rpa.png
 ## 
 
 ## ⚙️ Технологический стек
